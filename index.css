@@ -1,0 +1,29 @@
+
+.jatin{
+    color: black; 
+    background-color: white;
+    
+}
+.p1{
+    color:black;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    
+    
+}
+.container1{
+    display: flex;
+}
+
+.pallav{
+    outline-style: auto;
+    margin: 90px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 10px;
+    
+}
